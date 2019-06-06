@@ -62,6 +62,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\My Scripts\EndButton.cs" />
+    <Compile Include="Assets\My Scripts\EndButtonBall.cs" />
+    <Compile Include="Assets\My Scripts\EndButtonChair.cs" />
+    <Compile Include="Assets\My Scripts\Randomizev2.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
